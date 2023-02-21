@@ -21,7 +21,6 @@
   "placementConstraints": [],
   "memory": "1024",
   "family": "ganesh-demo",
-  "update-service": "ganesh-demo",
   "requiresCompatibilities": [
     "EC2"
   ],
