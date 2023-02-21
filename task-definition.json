@@ -20,11 +20,11 @@
   ],
   "placementConstraints": [],
   "memory": "1024",
-  "family": "ganesh-demo",
+  "family": "revision",
   "requiresCompatibilities": [
     "EC2"
   ],
   "cpu": "256",
-  "status": "PRIMARY",
+  
   "volumes": []
   }
