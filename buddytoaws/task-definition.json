@@ -1,0 +1,29 @@
+{
+    "containerDefinitions": [
+    {
+      "entryPoint": [],
+      "portMappings": [
+        {
+          "hostPort": 5000,
+          "protocol": "tcp",
+          "containerPort": 5000
+        }
+      ],
+      "command": [],
+      "cpu": 0,
+      "environment": [],
+      "mountPoints": [],
+      "volumesFrom": [],
+      "image": "627333128353.dkr.ecr.ap-south-1.amazonaws.com/627333128353.dkr.ecr.ap-south-1.amazonaws.com/ganeshdev:latest",
+      "name": "ganesh-demo"
+    }
+  ],
+  "placementConstraints": [],
+  "memory": "1024",
+  "family": "ganesh-demo",
+  "requiresCompatibilities": [
+    "EC2"
+  ],
+  "cpu": "256",
+  "volumes": []
+  }
