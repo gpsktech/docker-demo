@@ -25,5 +25,6 @@
     "EC2"
   ],
   "cpu": "256",
+  "status": "PRIMARY",
   "volumes": []
   }
