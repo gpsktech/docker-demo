@@ -25,7 +25,5 @@
     "EC2"
   ],
   "cpu": "256",
-  "revision": 15,
-  "status": "ACTIVE",
   "volumes": []
   }
