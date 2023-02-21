@@ -15,12 +15,12 @@
       "mountPoints": [],
       "volumesFrom": [],
       "image": "627333128353.dkr.ecr.ap-south-1.amazonaws.com/627333128353.dkr.ecr.ap-south-1.amazonaws.com/ganeshdev:latest",
-      "name": "ganesh-demo"
+      "name": "ganesh-demo:15"
     }
   ],
   "placementConstraints": [],
   "memory": "1024",
-  "family": "ganesh-demo:15",
+  "family": "ganesh-demo",
   "requiresCompatibilities": [
     "EC2"
   ],
