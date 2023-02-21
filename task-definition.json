@@ -20,7 +20,7 @@
   ],
   "placementConstraints": [],
   "memory": "1024",
-  "family": "ganesh-demo",
+  "family": "ganesh-demo:15",
   "requiresCompatibilities": [
     "EC2"
   ],
