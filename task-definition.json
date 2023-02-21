@@ -15,7 +15,7 @@
       "mountPoints": [],
       "volumesFrom": [],
       "image": "627333128353.dkr.ecr.ap-south-1.amazonaws.com/627333128353.dkr.ecr.ap-south-1.amazonaws.com/ganeshdev:latest",
-      "name": "ganesh-demo:15"
+      "name": "ganesh-demo"
     }
   ],
   "placementConstraints": [],
@@ -25,5 +25,6 @@
     "EC2"
   ],
   "cpu": "256",
+  "revision": 15,
   "volumes": []
   }
